@@ -1,6 +1,6 @@
 # Molema Telehealth Solution
 
-[![Molema Logo](https://molemasalud.com/assets/media/website-images/top-logo.svg)](https://molemasalud.com)
+[![Molema Logo](https://raw.githubusercontent.com/Clinica-Medica-MiSalud-SL/.github/refs/heads/main/profile/logo.png)](https://molemasalud.com)
 
 > Bringing Loving Care to Health Care  
 > **Connecting Equatorial Guinea with certified medical professionals through secure telehealth technology**
